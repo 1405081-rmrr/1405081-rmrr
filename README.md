@@ -7,4 +7,4 @@
 - 📘 I love reading thriller books
 - 🏏 Watching cricket fascinates me a lot
 - 📫 How to reach me
-[Linkedin] (https://www.linkedin.com/in/reza-md-ruhul-roktim-9402a2222/)
+  [Linkedin] (https://www.linkedin.com/in/reza-md-ruhul-roktim-9402a2222/)
