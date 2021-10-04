@@ -6,5 +6,5 @@
 - 💻 Programming languages I have learned : C++ , Java , Python
 - 📘 I love reading thriller books
 - 🏏 Watching cricket fascinates me a lot
-- 📫 How to reach me
-  [Linkedin] (https://www.linkedin.com/in/reza-md-ruhul-roktim-9402a2222/)
+- 📫 How to reach me 
+[Linkedin](https://www.linkedin.com/in/reza-md-ruhul-roktim-9402a2222/)
