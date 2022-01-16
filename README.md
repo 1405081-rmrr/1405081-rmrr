@@ -1,4 +1,4 @@
-# <pre>                         Hi I am Roktim 🙂</pre>	
+# <pre>                         Hi I am Reza 🙂</pre>	
 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 🎖️ I’m currently solving Leetcode Problems.
