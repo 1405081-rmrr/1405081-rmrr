@@ -1,10 +1,8 @@
 # <pre>                         Hi I am Reza 🙂</pre>	
 
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 🎖️ I’m currently solving Leetcode Problems.
-- 💬 I am passionate about Algorithms and Data Structures.
-- 💻 Programming languages I have learned : C++ , Java , Python
-- 📘 I love reading thriller books
+- 🌱 I’m currently working on iOS development
+- 💻 Programming languages I have learned : C++ , Java , Python , Swift
+- 📘 I love reading bangla literature
 - 🏏 Watching cricket fascinates me a lot
 - 📨 How to reach me 
 
